@@ -1,4 +1,4 @@
-### Code Institiute - Repsonsive Design - Mobile First Approach - Challenge
+### Code Institiute - Responsive Design - Mobile First Approach - Challenge
 
 ***
      ____  _   _ ____ _____ _   _ ____ ___ ___  
@@ -14,7 +14,7 @@
 ***
 #### project url: **'https://davidhubber.github.io/ci-repsonsive_design-mobile_first_approach-challenge/'**
 ***
-title: **'Code Institiute - Repsonsive Design - Mobile First Approach - Challenge'**
+title: **'Code Institiute - Responsive Design - Mobile First Approach - Challenge'**
 
 description: **It is a approach in the responsive design. It applies styles for the mobile first and then for larger screens by setting the minimum-width property in media query.**
 
@@ -32,4 +32,4 @@ credits:
 
 **• generated title ASCII-Font url › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Title")**
 
-### Code Institiute - Repsonsive Design - Mobile First Approach - Challenge
+### Code Institiute - Responsive Design - Mobile First Approach - Challenge
