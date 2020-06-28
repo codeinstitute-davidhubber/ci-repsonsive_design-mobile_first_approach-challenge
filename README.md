@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-repsonsive_design-mobile_first_approach-challenge/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-repsonsive_design-mobile_first_approach-challenge/'**
 ***
 title: **'Code Institiute - Responsive Design - Mobile First Approach - Challenge'**
 
